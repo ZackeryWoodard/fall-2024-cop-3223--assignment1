@@ -24,7 +24,7 @@ double calculateDistance() {
 
     printf("Point #1 entered: x1 = %lf  ; y1 = %lf",x1,y2);
     printf("Point #1 entered: x1 = %lf ; y1 = %lf",x2,y2);
-    printf("The distance between the 2 points is %lf and %lf",distance);
+    printf("The distance between the 2 points is %lf",distance);
 
     return distance;
 }
